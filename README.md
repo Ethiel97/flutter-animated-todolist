@@ -1,6 +1,12 @@
-# flutter_app
+# Animated todo list
 
 A new Flutter project.
+
+## Demo
+
+Watch the app in action: [demo.mp4](assets/demo.mp4)
+
+This demo video showcases the key features and user interface of the Flutter application.
 
 ## Getting Started
 
